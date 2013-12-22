@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1387637413 source:e:\observpattern\observpattern\main.cpp
+	<iostream>
+	"include/kobieta.h"
+	"include/mezczyzna.h"
+
+1387634600 e:\observpattern\observpattern\src\kobieta.cpp
+	"../include/kobieta.h"
+	<list>
+	<iostream>
+
+1387637664 e:\observpattern\observpattern\include\kobieta.h
+	"observable.h"
+	"observator.h"
+	<list>
+	<string>
+
+1387635771 e:\observpattern\observpattern\include\observable.h
+	"observator.h"
+
+1387630811 e:\observpattern\observpattern\include\observator.h
+
+1387634470 e:\observpattern\observpattern\src\mezczyzna.cpp
+	"../include/mezczyzna.h"
+	<iostream>
+	<string>
+
+1387637676 e:\observpattern\observpattern\include\mezczyzna.h
+	"observator.h"
+	"observable.h"
+	<string>
+	<list>
+
+1387637149 source:e:\observpattern\observpattern\src\kobieta.cpp
+	"../include/kobieta.h"
+	<list>
+	<iostream>
+
+1387637299 source:e:\observpattern\observpattern\src\mezczyzna.cpp
+	"../include/mezczyzna.h"
+	<iostream>
+	<string>
+
